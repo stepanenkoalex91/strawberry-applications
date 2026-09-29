@@ -8,4 +8,4 @@
 
 After publishing through GitHub Pages, use this URL in the **Support URL** field in App Store Connect:
 
-https://stepanenkoalex91.github.io/strawberry-captain/customer-support.html
+https://stepanenkoalex91.github.io/strawberry-applications/customer-support
